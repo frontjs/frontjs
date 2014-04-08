@@ -1,0 +1,25 @@
+{
+  "name": "frontjs",
+  "version": "1.0.0",
+  "homepage": "http://frontjs.github.io",
+  "authors": [
+    "wangqianfront <wangqianfront@gmail.com>"
+  ],
+  "description": "A Module Loader for the Web",
+  "main": "build/seed-min.js",
+  "keywords": [
+    "javascript",
+    "framework",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "docs",
+    "reports",
+    "tools",
+    "bin",
+    "node_modules",
+    "src"
+  ]
+}
